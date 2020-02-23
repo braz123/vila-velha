@@ -1,0 +1,271 @@
+#EXTM3U
+ 
+#PLAYLISTV: pltv-logo="https://preview.ibb.co/cOhYLU/Photo_Text.jpg" pltv-name="WILL SPORTS" pltv-description="WILL IPTV" pltv-cover="http://ap.imagensbrasil.org/images/2018/04/30/WhatsApp-Image-2018-04-26-at-10.00.37.md.jpg" pltv-author="Willams LIma" pltv-site="facebook/willamsartesX" pltv-whatssap="82 988111372"
+ 
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMUTlyszO2gFBknp0_1y8I-Rd_QGuomfxNbn70lZsB0mFPxiFPQg" group-title="WILL IPTV", whatsap: 82 988111372
+http:// whatsap: 82 988111372
+
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMUTlyszO2gFBknp0_1y8I-Rd_QGuomfxNbn70lZsB0mFPxiFPQg" group-title="WILL IPTV", whatsap: 82 994078303
+http:// whatsap: 82 994078303
+
+#EXTINF:1 tvg-logo="http://ap.imagensbrasil.org/images/2018/02/03/1514304449411.png" group-title="WILL IPTV", R$ 35,00 Mensal
+ 
+ 
+
+///////////////////////// Esportes  ///////////////////////////////////////////////
+
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://listaccess.me/Logo/ESPN.png" group-title="Canais: Esportes",ESPN
+http://50.7.78.154/live/dan24191/24191/1718.m3u8?token=GhNeVkVeFQoRBAQMVlMIUwACVltUAAIEWgJeVQdUAwcAAwEPBgBWVAcUHBZBREoBAAxoCgUTW1AOAV4YEBdHARNuX1MUDBUCAgEBAQsSFEYVCFoGQwtRTRtAD1AQWBZWVAUOABQaFVVLQlVGXFFUOwUEQQoCVENbV0UKWB5AWwo+VVNaV1hTEgkUABYeElEXEUMNDRRdDU0bUg9AQANAAUMLFA4FARUcEVVfQVxESh1DWxUhMxNNQ1xIElFcEV0LDxMMFVsFQggRGhJdQW9KARIVRQYAXAQTGwpEBBBOFgkASWlUWVhZVVBCWVtcQxpeQ1AVT0NcDg9QRAlGbRJdAEMLFAYEBw4STg==
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN [Alter]" tvg-logo="http://listaccess.me/Logo/ESPN.png" group-title="Canais: Esportes",ESPN [Alter]
+http://50.7.78.154/live/dan24191/24191/1718.m3u8?token=GhNeVkVeFQoRBAQMVlMIUwACVltUAAIEWgJeVQdUAwcAAwEPBgBWVAcUHBZBREoBAAxoCgUTW1AOAV4YEBdHARNuX1MUDBUCAgEBAQsSFEYVCFoGQwtRTRtAD1AQWBZWVAUOABQaFVVLQlVGXFFUOwUEQQoCVENbV0UKWB5AWwo+VVNaV1hTEgkUABYeElEXEUMNDRRdDU0bUg9AQANAAUMLFA4FARUcEVVfQVxESh1DWxUhMxNNQ1xIElFcEV0LDxMMFVsFQggRGhJdQW9KARIVRQYAXAQTGwpEBBBOFgkASWlUWVhZVVBCWVtcQxpeQ1AVT0NcDg9QRAlGbRJdAEMLFAYEBw4STg==
+#EXTINF:-1 tvg-id="" tvg-name="ESPN [Alter 2]" tvg-logo="http://listaccess.me/Logo/ESPN.png" group-title="Canais: Esportes",ESPN [Alter 2]
+http://50.7.78.154/live/dan24191/24191/1718.m3u8?token=GhNeVkVeFQoRBAQMVlMIUwACVltUAAIEWgJeVQdUAwcAAwEPBgBWVAcUHBZBREoBAAxoCgUTW1AOAV4YEBdHARNuX1MUDBUCAgEBAQsSFEYVCFoGQwtRTRtAD1AQWBZWVAUOABQaFVVLQlVGXFFUOwUEQQoCVENbV0UKWB5AWwo+VVNaV1hTEgkUABYeElEXEUMNDRRdDU0bUg9AQANAAUMLFA4FARUcEVVfQVxESh1DWxUhMxNNQ1xIElFcEV0LDxMMFVsFQggRGhJdQW9KARIVRQYAXAQTGwpEBBBOFgkASWlUWVhZVVBCWVtcQxpeQ1AVT0NcDg9QRAlGbRJdAEMLFAYEBw4STg==
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="http://listaccess.me/Logo/ESPN.png" group-title="Canais: Esportes",ESPN HD
+http://50.7.78.154/live/dan24191/24191/1129.m3u8?token=GhNeVkVeFQoRVQYHVFENBwJQAFcHCVJWAQQCBVcEVwVUBQYABQEAAQIUHBZBREoBAAxoCgUTW1AIAl8YEBdHARNuX1MUDBUCAgEBAQsSFEYVCFoGQwtRTRtAD1AQWBZXUwcDAhQaFVVLQlVGXFFUOwUEQQoCVENbV0UKWB5AWwo+VVNaV1hTEgkUABYeElEXEUMNDRRdDU0bUg9AQANAAUMLFAUOAAISHxRTW0deTBYYQw1BI2NDTRtVHkBXDEcNDl8UDRRbBEULFBwWW0NnFgQSQxEEUAwESxJcFgJAGEYMUE5oVVlZXlZVRF1dXktGW0MGQU0TDA5XWRJbQD1EDQUTDBUHDgMHEUs=
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD [Alter]" tvg-logo="http://listaccess.me/Logo/ESPN.png" group-title="Canais: Esportes",ESPN HD [Alter]
+http://50.7.78.154/live/dan24191/24191/1129.m3u8?token=GhNeVkVeFQoRVQYHVFENBwJQAFcHCVJWAQQCBVcEVwVUBQYABQEAAQIUHBZBREoBAAxoCgUTW1AIAl8YEBdHARNuX1MUDBUCAgEBAQsSFEYVCFoGQwtRTRtAD1AQWBZXUwcDAhQaFVVLQlVGXFFUOwUEQQoCVENbV0UKWB5AWwo+VVNaV1hTEgkUABYeElEXEUMNDRRdDU0bUg9AQANAAUMLFAUOAAISHxRTW0deTBYYQw1BI2NDTRtVHkBXDEcNDl8UDRRbBEULFBwWW0NnFgQSQxEEUAwESxJcFgJAGEYMUE5oVVlZXlZVRF1dXktGW0MGQU0TDA5XWRJbQD1EDQUTDBUHDgMHEUs=
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE INTERATIVO (LIGA DOS CAMPEÕES]" tvg-logo="http://192.240.105.58/live/dan24191/24191/2383.m3u8?token=GhNeVkVeFQoRAgBXVAAKVVQHVFZZBVVWCFFWDQIABFBUVAMCD1IHBAYUHBZBREoBAAxoCgUTW1MKCFUYEBdHARNuX1MUDBUCAgEBAQsSFEYVCFoGQwtRTRtAD1AQWBZWVQYBFRoUUkhHU0JaU1xnAAQXXgAEE1sPTFwKGBANWjsFVFtWWFIVChEGEhgQWUsUQ1tZFg1dTUNbWRJGUxZRRlsTBA4GDhUcEVVfQVxESh1DWxUhMxNNQ1xIElFcEV0LDxMMFVsFQggRGhJdQW9KARIVRQYAXAQTGwpEBBBOFgkASWlUWVhZVVBCWVtcQxpeQ1AVT0NcDg9QRAlGbRJdAEMLFAQBAgYSTg=="Canais: Esportes",EI PLUS  (LIGA DOS CAMPEÕES )
+http://50.7.78.154/live/dan24191/24191/2501.m3u8?token=GhNeVkVeFQoRVQQEAgdbB1FUUwAEBgBUXQhSAFFWB1RSAVIDDgUABlUUHBZBREoBAAxoCgUTW1MMAFcYEBdHARNuX1MUDBUCAgEBAQsSFEYVCFoGQwtRTRtAD1AQWBZVUgMFBxQaFVVLQlVGXFFUOwUEQQoCVENbV0UKWB5AWwo+VVNaV1hTEgkUABYeElEXEUMNDRRdDU0bUg9AQANAAUMLFAYAAw4SHxRTW0deTBYYQw1BI2NDTRtVHkBXDEcNDl8UDRRbBEULFBwWW0NnFgQSQxEEUAwESxJcFgJAGEYMUE5oVVlZXlZVRF1dXktGW0MGQU0TDA5XWRJbQD1EDQUTDBUOAg4STg==
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN +" tvg-logo="http://listaccess.me/Logo/ESPN.png" group-title="Canais: Esportes",ESPN +
+http://192.240.105.58/live/dan24191/24191/38756.m3u8?token=GhNeVkVeFQoRVAYMCgEBUQcFDgBQVFJYCglSBVQDVVwFBgMGVFAHA1UUHBZBREoBAAxoCgUTW1IBB1MCHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GVAIAARQaFVVLQlVGXFFUOwUEQQoCVENbV0UKWB5AWwo+VVNaV1hTEgkUABYeElEXEUMNDRRdDU0bUg9AQANAAUMLFAIADhUcEVVfQVxESh1DWxUhMxNNQ1xIElFcEV0LDxMMFVsFQggRGhJdQW9KARIVRQYAXAQTGwpEBBBOFgkASWlUWVhZVVBCWVtcQxpeQ1AVT0NcDg9QRAlGbRJdAEMLFAMOAAASTg==
+#EXTINF:-1 tvg-id="ESPN + HD" tvg-name="ESPN + HD" tvg-logo="http://listaccess.me/Logo/ESPN.png" group-title="Canais: Esportes",ESPN + HD
+http://192.240.105.58/live/dan24191/24191/38756.m3u8?token=GhNeVkVeFQoRVAYMCgEBUQcFDgBQVFJYCglSBVQDVVwFBgMGVFAHA1UUHBZBREoBAAxoCgUTW1IBB1MCHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GVAIAARQaFVVLQlVGXFFUOwUEQQoCVENbV0UKWB5AWwo+VVNaV1hTEgkUABYeElEXEUMNDRRdDU0bUg9AQANAAUMLFAIADhUcEVVfQVxESh1DWxUhMxNNQ1xIElFcEV0LDxMMFVsFQggRGhJdQW9KARIVRQYAXAQTGwpEBBBOFgkASWlUWVhZVVBCWVtcQxpeQ1AVT0NcDg9QRAlGbRJdAEMLFAMOAAASTg==
+#EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN+  [Alter]" tvg-logo="http://listaccess.me/Logo/ESPN.png" group-title="Canais: Esportes",ESPN+  [Alter]
+http://listaccess.me:8880/live/Caroline01/Caroline01/7433.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN + [Alter 2]" tvg-logo="http://listaccess.me/Logo/ESPN.png" group-title="Canais: Esportes",ESPN + [Alter 2]
+http://192.240.105.58/live/dan24191/24191/38756.m3u8?token=GhNeVkVeFQoRVAYMCgEBUQcFDgBQVFJYCglSBVQDVVwFBgMGVFAHA1UUHBZBREoBAAxoCgUTW1IBB1MCHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GVAIAARQaFVVLQlVGXFFUOwUEQQoCVENbV0UKWB5AWwo+VVNaV1hTEgkUABYeElEXEUMNDRRdDU0bUg9AQANAAUMLFAIADhUcEVVfQVxESh1DWxUhMxNNQ1xIElFcEV0LDxMMFVsFQggRGhJdQW9KARIVRQYAXAQTGwpEBBBOFgkASWlUWVhZVVBCWVtcQxpeQ1AVT0NcDg9QRAlGbRJdAEMLFAMOAAASTg==
+#EXTINF:-1 tvg-id="ESPN+ HD [Alter]" tvg-name="ESPN + HD [Alter]" tvg-logo="http://listaccess.me/Logo/ESPN.png" group-title="Canais: Esportes",ESPN + HD [Alter]
+http://192.240.105.58/live/dan24191/24191/38756.m3u8?token=GhNeVkVeFQoRVAYMCgEBUQcFDgBQVFJYCglSBVQDVVwFBgMGVFAHA1UUHBZBREoBAAxoCgUTW1IBB1MCHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GVAIAARQaFVVLQlVGXFFUOwUEQQoCVENbV0UKWB5AWwo+VVNaV1hTEgkUABYeElEXEUMNDRRdDU0bUg9AQANAAUMLFAIADhUcEVVfQVxESh1DWxUhMxNNQ1xIElFcEV0LDxMMFVsFQggRGhJdQW9KARIVRQYAXAQTGwpEBBBOFgkASWlUWVhZVVBCWVtcQxpeQ1AVT0NcDg9QRAlGbRJdAEMLFAMOAAASTg==
+#EXTINF:-1 tvg-id="" tvg-name="ESPN + HD [Alter 2]" tvg-logo="http://listaccess.me/Logo/ESPN.png" group-title="Canais: Esportes",ESPN + HD [Alter 2]
+http://listaccess.me:8880/live/Caroline01/Caroline01/13961.ts
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil" tvg-logo="http://listaccess.me/Logo/EspnBrasil.png" group-title="Canais: Esportes",ESPN Brasil
+http://50.7.78.154/live/dan24191/24191/38415.m3u8?token=GhNeVkVeFQoRAAdSBgFeXQVWVlVQAVNWCAlQAVZXAVRRBAEDUAIPCAUUHBZBREoBAAxoCgUTW1IBBFcBHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GUwYOAQYUGxJWTkRRQF5ZCD4FUhUIUgRDA14TWF5OFgsPblJSW1dZVBEMEgQQHBoNEhEVWQ9EDQ0VEgRdRhBVEAQTDBUHBQMHERoSV11FVhATGBVZQ3MzQxUSA0xGB1oXCF5YFQwUWgNGDhIYEFlLOxMERBcTVAAMXEJEDhBSFkhDXFdPaVVYXl1TU0BbX1YXQ1sVUkMdQwxWXg9AXRBrFAhVFA0UBwIFBRRN
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil [Alter]" tvg-logo="http://listaccess.me/Logo/EspnBrasil.png" group-title="Canais: Esportes",ESPN Brasil [Alter]
+http://23.237.100.82/live/dan24191/24191/2387.m3u8?token=GhNeVkVeFQoRAQhWAFINVQUFDlQCVQJUWFVfDQtUBFxSBA5RUw5UAgoUHBZBREoBAAxoCgUTW1MKCFEYEBdHARNuX1MUDBUCAgEBAQsSFEYVCFoGQwtRTRtAD1AQWBZVUAMHARQaFVVLQlVGXFFUOwUEQQoCVENbV0UKWB5AWwo+VVNaV1hTEgkUABYeElEXEUMNDRRdDU0bUg9AQANAAUMLFAUDAAQSHxRTW0deTBYYQw1BI2NDTRtVHkBXDEcNDl8UDRRbBEULFBwWW0NnFgQSQxEEUAwESxJcFgJAGEYMUE5oVVlZXlZVRF1dXktGW0MGQU0TDA5XWRJbQD1EDQUTDBUCBgIGEUs=
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil [Alter 2]" tvg-logo="http://listaccess.me/Logo/EspnBrasil.png" group-title="Canais: Esportes",ESPN Brasil [Alter 2]
+http://23.237.100.82/live/dan24191/24191/2387.m3u8?token=GhNeVkVeFQoRAQhWAFINVQUFDlQCVQJUWFVfDQtUBFxSBA5RUw5UAgoUHBZBREoBAAxoCgUTW1MKCFEYEBdHARNuX1MUDBUCAgEBAQsSFEYVCFoGQwtRTRtAD1AQWBZVUAMHARQaFVVLQlVGXFFUOwUEQQoCVENbV0UKWB5AWwo+VVNaV1hTEgkUABYeElEXEUMNDRRdDU0bUg9AQANAAUMLFAUDAAQSHxRTW0deTBYYQw1BI2NDTRtVHkBXDEcNDl8UDRRbBEULFBwWW0NnFgQSQxEEUAwESxJcFgJAGEYMUE5oVVlZXlZVRF1dXktGW0MGQU0TDA5XWRJbQD1EDQUTDBUCBgIGEUs=
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-name="ESPN Brasil HD" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Canais: Esportes",ESPN Brasil HD
+http://50.7.78.154/live/dan24191/24191/38415.m3u8?token=GhNeVkVeFQoRAAdSBgFeXQVWVlVQAVNWCAlQAVZXAVRRBAEDUAIPCAUUHBZBREoBAAxoCgUTW1IBBFcBHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GUwYOAQYUGxJWTkRRQF5ZCD4FUhUIUgRDA14TWF5OFgsPblJSW1dZVBEMEgQQHBoNEhEVWQ9EDQ0VEgRdRhBVEAQTDBUHBQMHERoSV11FVhATGBVZQ3MzQxUSA0xGB1oXCF5YFQwUWgNGDhIYEFlLOxMERBcTVAAMXEJEDhBSFkhDXFdPaVVYXl1TU0BbX1YXQ1sVUkMdQwxWXg9AXRBrFAhVFA0UBwIFBRRN
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-name="ESPN Brasil HD [Alter]" tvg-logo="http://listaccess.me/Logo/EspnBrasil.png" group-title="Canais: Esportes",ESPN Brasil HD [Alter]
+http://50.7.78.154/live/dan24191/24191/38415.m3u8?token=GhNeVkVeFQoRAAdSBgFeXQVWVlVQAVNWCAlQAVZXAVRRBAEDUAIPCAUUHBZBREoBAAxoCgUTW1IBBFcBHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GUwYOAQYUGxJWTkRRQF5ZCD4FUhUIUgRDA14TWF5OFgsPblJSW1dZVBEMEgQQHBoNEhEVWQ9EDQ0VEgRdRhBVEAQTDBUHBQMHERoSV11FVhATGBVZQ3MzQxUSA0xGB1oXCF5YFQwUWgNGDhIYEFlLOxMERBcTVAAMXEJEDhBSFkhDXFdPaVVYXl1TU0BbX1YXQ1sVUkMdQwxWXg9AXRBrFAhVFA0UBwIFBRRN
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD [Alter 2]" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Canais: Esportes",ESPN Brasil HD [Alter 2]
+http://50.7.78.154/live/dan24191/24191/38415.m3u8?token=GhNeVkVeFQoRAAdSBgFeXQVWVlVQAVNWCAlQAVZXAVRRBAEDUAIPCAUUHBZBREoBAAxoCgUTW1IBBFcBHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GUwYOAQYUGxJWTkRRQF5ZCD4FUhUIUgRDA14TWF5OFgsPblJSW1dZVBEMEgQQHBoNEhEVWQ9EDQ0VEgRdRhBVEAQTDBUHBQMHERoSV11FVhATGBVZQ3MzQxUSA0xGB1oXCF5YFQwUWgNGDhIYEFlLOxMERBcTVAAMXEJEDhBSFkhDXFdPaVVYXl1TU0BbX1YXQ1sVUkMdQwxWXg9AXRBrFAhVFA0UBwIFBRRN
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-name="ESPN Brasil FHD" tvg-logo="http://listaccess.me/Logo/EspnBrasil.png" group-title="Canais: Esportes",ESPN Brasil FHD
+http://50.7.78.154/live/dan24191/24191/38415.m3u8?token=GhNeVkVeFQoRAAdSBgFeXQVWVlVQAVNWCAlQAVZXAVRRBAEDUAIPCAUUHBZBREoBAAxoCgUTW1IBBFcBHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GUwYOAQYUGxJWTkRRQF5ZCD4FUhUIUgRDA14TWF5OFgsPblJSW1dZVBEMEgQQHBoNEhEVWQ9EDQ0VEgRdRhBVEAQTDBUHBQMHERoSV11FVhATGBVZQ3MzQxUSA0xGB1oXCF5YFQwUWgNGDhIYEFlLOxMERBcTVAAMXEJEDhBSFkhDXFdPaVVYXl1TU0BbX1YXQ1sVUkMdQwxWXg9AXRBrFAhVFA0UBwIFBRRN
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra" tvg-logo="http://listaccess.me/Logo/espnextra.png" group-title="Canais: Esportes",ESPN Extra
+http://50.7.78.170/live/dan24191/24191/20812.m3u8?token=GhNeVkVeFQoRBgcAVFZdBlACAFdQB1kCCgAHBlFWBgYAUFIDUg9TVFAUHBZBREoBAAxoCgUTW1MJCFcGHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GUgMGBwYUGxJWTkRRQF5ZCD4FUhUIUgRDA14TWF5OFgsPblJSW1dZVBEMEgQQHBoNEhEVWQ9EDQ0VEgRdRhBVEAQTDBUDAA4SHxRTW0deTBYYQw1BI2NDTRtVHkBXDEcNDl8UDRRbBEULFBwWW0NnFgQSQxEEUAwESxJcFgJAGEYMUE5oVVlZXlZVRF1dXktGW0MGQU0TDA5XWRJbQD1EDQUTDBUFBgIHABRN
+#EXTINF:-1 tvg-id="ESPN FHD" tvg-name="ESPN Extra FHD" tvg-logo="http://listaccess.me/Logo/ESPN.png" group-title="Canais: Esportes",ESPN Extra FHD
+http://50.7.78.170/live/dan24191/24191/20812.m3u8?token=GhNeVkVeFQoRBgcAVFZdBlACAFdQB1kCCgAHBlFWBgYAUFIDUg9TVFAUHBZBREoBAAxoCgUTW1MJCFcGHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GUgMGBwYUGxJWTkRRQF5ZCD4FUhUIUgRDA14TWF5OFgsPblJSW1dZVBEMEgQQHBoNEhEVWQ9EDQ0VEgRdRhBVEAQTDBUDAA4SHxRTW0deTBYYQw1BI2NDTRtVHkBXDEcNDl8UDRRbBEULFBwWW0NnFgQSQxEEUAwESxJcFgJAGEYMUE5oVVlZXlZVRF1dXktGW0MGQU0TDA5XWRJbQD1EDQUTDBUFBgIHABRN
+#EXTINF:-1 tvg-id="ESPN Extra HD" tvg-name="ESPN Extra HD" tvg-logo="http://listaccess.me/Logo/espnextra.png" group-title="Canais: Esportes",ESPN Extra HD
+http://23.237.100.82/live/dan24191/24191/20813.m3u8?token=GhNeVkVeFQoRUgdVCwIPVgUFVVBQUgNQDwcHBgsEUFBWCAQCBwIEAgQUHBZBREoBAAxoCgUTW1MJCFcHHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GUAkABgcUGxJWTkRRQF5ZCD4FUhUIUgRDA14TWF5OFgsPblJSW1dZVBEMEgQQHBoNEhEVWQ9EDQ0VEgRdRhBVEAQTDBUEDgEGERoSV11FVhATGBVZQ3MzQxUSA0xGB1oXCF5YFQwUWgNGDhIYEFlLOxMERBcTVAAMXEJEDhBSFkhDXFdPaVVYXl1TU0BbX1YXQ1sVUkMdQwxWXg9AXRBrFAhVFA0UBA8ABxRN
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN FHD" tvg-logo="http://listaccess.me/Logo/ESPN.png" group-title="Canais: Esportes",ESPN FHD
+http://listaccess.me:8880/live/Caroline01/Caroline01/7160.ts
+#EXTINF:-1 tvg-id="Esporte Interativo 2 HD" tvg-name="Esporte Interativo 2 HD" tvg-logo="http://listaccess.me/Logo/EsporteInterativo1.png" group-title="Canais: Esportes",Esporte Interativo 2 HD
+http://listaccess.me:8880/live/Caroline01/Caroline01/2297.ts
+#EXTINF:-1 tvg-id="Esporte Interativo HD" tvg-name="Esporte Interativo HD" tvg-logo="http://listaccess.me/Logo/EsporteInterativo1.png" group-title="Canais: Esportes",Esporte Interativo HD
+http://listaccess.me:8880/live/Caroline01/Caroline01/2295.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 1 [Alter]" tvg-logo="http://listaccess.me/Logo/FoxPremium.png" group-title="Canais: Filmes e Series",Fox Premium 1 [Alter]
+http://50.7.78.170/live/dan24191/24191/20815.m3u8?token=GhNeVkVeFQoRAwYDVggKU1JQDwBVAgIECQEFDVAGUgZSUwVWUAZRBlYUHBZBREoBAAxoCgUTW1MJCFcBHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GUwEHBRQaFVVLQlVGXFFUOwUEQQoCVENbV0UKWB5AWwo+VVNaV1hTEgkUABYeElEXEUMNDRRdDU0bUg9AQANAAUMLFAADDhUcEVVfQVxESh1DWxUhMxNNQ1xIElFcEV0LDxMMFVsFQggRGhJdQW9KARIVRQYAXAQTGwpEBBBOFgkASWlUWVhZVVBCWVtcQxpeQ1AVT0NcDg9QRAlGbRJdAEMLFAUPAgAIEUs=
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 1 HD" tvg-logo="http://listaccess.me/Logo/FoxPremium.png" group-title="Canais: Filmes e Series",Fox Premium 1 HD
+http://50.7.78.170/live/dan24191/24191/20815.m3u8?token=GhNeVkVeFQoRAwYDVggKU1JQDwBVAgIECQEFDVAGUgZSUwVWUAZRBlYUHBZBREoBAAxoCgUTW1MJCFcBHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GUwEHBRQaFVVLQlVGXFFUOwUEQQoCVENbV0UKWB5AWwo+VVNaV1hTEgkUABYeElEXEUMNDRRdDU0bUg9AQANAAUMLFAADDhUcEVVfQVxESh1DWxUhMxNNQ1xIElFcEV0LDxMMFVsFQggRGhJdQW9KARIVRQYAXAQTGwpEBBBOFgkASWlUWVhZVVBCWVtcQxpeQ1AVT0NcDg9QRAlGbRJdAEMLFAUPAgAIEUs=
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 1 HD [Alter]" tvg-logo="http://listaccess.me/Logo/FoxPremium.png" group-title="Canais: Filmes e Series",Fox Premium 1 HD [Alter]
+http://50.7.78.154/live/dan24191/24191/2464.m3u8?token=GhNeVkVeFQoRAlQBAgEAUlcDAwZQBwJSWFVeAwJRBgFQUA8OAFMDBgoUHBZBREoBAAxoCgUTW1MNBlIYEBdHARNuX1MUDBUCAgEBAQsSFEYVCFoGQwtRTRtAD1AQWBZRVgkUGxRTT0RWRF5VXm9cARcIVAZDCw8UVVxKFl0MawAEXFdZUhQNEgMUHBZbQ0hGWw9CDw0dQwNQRBRVRgcWXkMDAwEFFBsSUFlFWkZCQUZbQ3UxQx1DBEFEA1pBC1sKQwsUWgVDDxIfFFlHbUJdFxUTUgIMVBNDAxJWFh5AWQUZblVYWFhSU0dfX1pBEgJGUEMbQQxeDwhNXxRrQgtQRlsTBwYFBRVN
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2 [Alter]" tvg-logo="http://listaccess.me/Logo/FoxPremium22.png" group-title="Canais: Filmes e Series",Fox Premium 2 [Alter]
+http://50.7.78.154/live/dan24191/24191/20816.m3u8?token=GhNeVkVeFQoRUAcAUQgBBlRYAAJQBVdWXAVTBAAEUQYAUFIHVQECCAsUHBZBREoBAAxoCgUTW1MJCFcCHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GUAUPBQ8UGxJWTkRRQF5ZCD4FUhUIUgRDA14TWF5OFgsPblJSW1dZVBEMEgQQHBoNEhEVWQ9EDQ0VEgRdRhBVEAQTDBUDAgESHxRTW0deTBYYQw1BI2NDTRtVHkBXDEcNDl8UDRRbBEULFBwWW0NnFgQSQxEEUAwESxJcFgJAGEYMUE5oVVlZXlZVRF1dXktGW0MGQU0TDA5XWRJbQD1EDQUTDBUHBgYGEUs=
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2 FHD" tvg-logo="http://listaccess.me/Logo/FoxPremium22.png" group-title="Canais: Filmes e Series",Fox Premium 2 FHD
+http://50.7.78.170/live/dan24191/24191/5080.m3u8?token=GhNeVkVeFQoRVVYDAwZZUwVZAgVXAVBTXFEFAwYHAFdQBQIGDwEPBQEUHBZBREoBAAxoCgUTW1QJCFYYEBdHARNuX1MUDBUCAgEBAQsSFEYVCFoGQwtRTRtAD1AQWBZWVQMGFRoUUkhHU0JaU1xnAAQXXgAEE1sPTFwKGBANWjsFVFtWWFIVChEGEhgQWUsUQ1tZFg1dTUNbWRJGUxZRRlsTBA8AAhUcEVVfQVxESh1DWxUhMxNNQ1xIElFcEV0LDxMMFVsFQggRGhJdQW9KARIVRQYAXAQTGwpEBBBOFgkASWlUWVhZVVBCWVtcQxpeQ1AVT0NcDg9QRAlGbRJdAEMLFAQGAgMIEUs=
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2 HD" tvg-logo="http://listaccess.me/Logo/FoxPremium22.png" group-title="Canais: Filmes e Series",Fox Premium 2 HD
+http://192.240.105.58/live/dan24191/24191/2483.m3u8?token=GhNeVkVeFQoRAgdSBARZUlQADlBQU1BUXQdUAFAEUlYCBQ9RAwMCAQsUHBZBREoBAAxoCgUTW1MNCFUYEBdHARNuX1MUDBUCAgEBAQsSFEYVCFoGQwtRTRtAD1AQWBZWUgABABQaFVVLQlVGXFFUOwUEQQoCVENbV0UKWB5AWwo+VVNaV1hTEgkUABYeElEXEUMNDRRdDU0bUg9AQANAAUMLFAYHBgQSHxRTW0deTBYYQw1BI2NDTRtVHkBXDEcNDl8UDRRbBEULFBwWW0NnFgQSQxEEUAwESxJcFgJAGEYMUE5oVVlZXlZVRF1dXktGW0MGQU0TDA5XWRJbQD1EDQUTDBUCBwYEEUs=
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2 HD [Alter]" tvg-logo="http://listaccess.me/Logo/FoxPremium22.png" group-title="Canais: Filmes e Series",Fox Premium 2 HD [Alter]
+http://listaccess.me:8880/live/Caroline01/Caroline01/7409.ts
+#EXTINF:-1 tvg-id="Fox Sport HD" tvg-name="Fox Sport HD" tvg-logo="http://listaccess.me/Logo/FoxSports1.png" group-title="Canais: Esportes",Fox Sport HD
+http://192.240.105.58/live/dan24191/24191/2391.m3u8?token=GhNeVkVeFQoRAAIBUFQMAgNQBlBZCABRWAEAAQMABVUEUwMEUwNVCVcUHBZBREoBAAxoCgUTW1MKCVcYEBdHARNuX1MUDBUCAgEBAQsSFEYVCFoGQwtRTRtAD1AQWBZWUwYPDhQaFVVLQlVGXFFUOwUEQQoCVENbV0UKWB5AWwo+VVNaV1hTEgkUABYeElEXEUMNDRRdDU0bUg9AQANAAUMLFAYFDgISHxRTW0deTBYYQw1BI2NDTRtVHkBXDEcNDl8UDRRbBEULFBwWW0NnFgQSQxEEUAwESxJcFgJAGEYMUE5oVVlZXlZVRF1dXktGW0MGQU0TDA5XWRJbQD1EDQUTDBUCAwECEUs=
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" http://192.240.105.58/live/dan24191/24191/2391.m3u8?token=GhNeVkVeFQoRAAIBUFQMAgNQBlBZCABRWAEAAQMABVUEUwMEUwNVCVcUHBZBREoBAAxoCgUTW1MKCVcYEBdHARNuX1MUDBUCAgEBAQsSFEYVCFoGQwtRTRtAD1AQWBZWUwYPDhQaFVVLQlVGXFFUOwUEQQoCVENbV0UKWB5AWwo+VVNaV1hTEgkUABYeElEXEUMNDRRdDU0bUg9AQANAAUMLFAYFDgISHxRTW0deTBYYQw1BI2NDTRtVHkBXDEcNDl8UDRRbBEULFBwWW0NnFgQSQxEEUAwESxJcFgJAGEYMUE5oVVlZXlZVRF1dXktGW0MGQU0TDA5XWRJbQD1EDQUTDBUCAwECEUs="Canais: Esportes",Fox Sports
+http://192.240.105.58/live/dan24191/24191/2391.m3u8?token=GhNeVkVeFQoRAAIBUFQMAgNQBlBZCABRWAEAAQMABVUEUwMEUwNVCVcUHBZBREoBAAxoCgUTW1MKCVcYEBdHARNuX1MUDBUCAgEBAQsSFEYVCFoGQwtRTRtAD1AQWBZWUwYPDhQaFVVLQlVGXFFUOwUEQQoCVENbV0UKWB5AWwo+VVNaV1hTEgkUABYeElEXEUMNDRRdDU0bUg9AQANAAUMLFAYFDgISHxRTW0deTBYYQw1BI2NDTRtVHkBXDEcNDl8UDRRbBEULFBwWW0NnFgQSQxEEUAwESxJcFgJAGEYMUE5oVVlZXlZVRF1dXktGW0MGQU0TDA5XWRJbQD1EDQUTDBUCAwECEUs=
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports [Alter 2]" tvg-logo="http://listaccess.me/Logo/FoxSports1.png" group-title="Canais: Esportes",Fox Sports [Alter 2]
+http://192.240.105.58/live/dan24191/24191/2391.m3u8?token=GhNeVkVeFQoRAAIBUFQMAgNQBlBZCABRWAEAAQMABVUEUwMEUwNVCVcUHBZBREoBAAxoCgUTW1MKCVcYEBdHARNuX1MUDBUCAgEBAQsSFEYVCFoGQwtRTRtAD1AQWBZWUwYPDhQaFVVLQlVGXFFUOwUEQQoCVENbV0UKWB5AWwo+VVNaV1hTEgkUABYeElEXEUMNDRRdDU0bUg9AQANAAUMLFAYFDgISHxRTW0deTBYYQw1BI2NDTRtVHkBXDEcNDl8UDRRbBEULFBwWW0NnFgQSQxEEUAwESxJcFgJAGEYMUE5oVVlZXlZVRF1dXktGW0MGQU0TDA5XWRJbQD1EDQUTDBUCAwECEUs=
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports [Alter]" tvg-logo="http://listaccess.me/Logo/FoxSports1.png" group-title="Canais: Esportes",Fox Sports [Alter]
+http://list.deeplist.nl/live/dan24191/24191/1717.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="http://listaccess.me/Logo/FoxSports2.png" group-title="Canais: Esportes",Fox Sports 2
+http://list.deeplist.nl/live/dan24191/24191/1717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 [Alter 2]" tvg-logo="http://listaccess.me/Logo/FoxSports2.png" group-title="Canais: Esportes",Fox Sports 2 [Alter 2]
+http://list.deeplist.nl/live/dan24191/24191/1717.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2 [Alter]" tvg-logo="http://listaccess.me/Logo/FoxSports2.png" group-title="Canais: Esportes",Fox Sports 2 [Alter]
+http://list.deeplist.nl/live/dan24191/24191/1717.m3u8
+#EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-name="FOX Sports 2 HD" tvg-logo="http://listaccess.me/Logo/FoxSports2.png" group-title="Canais: Esportes",FOX Sports 2 HD
+http://list.deeplist.nl/live/dan24191/24191/1717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD [Alter 2]" tvg-logo="http://listaccess.me/Logo/FoxSports2.png" group-title="Canais: Esportes",Fox Sports 2 HD [Alter 2]
+http://list.deeplist.nl/live/dan24191/24191/1717.m3u8
+#EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-name="Fox Sports 2 HD [Alter]" tvg-logo="http://listaccess.me/Logo/FoxSports2.png" group-title="Canais: Esportes",Fox Sports 2 HD [Alter]
+http://50.7.78.154/live/dan24191/24191/50188.m3u8?token=GhNeVkVeFQoRBQRVA1YBXABXA1pXCQADCFYEAQEHA1UCV1RSDw9SAFEUHBZBREoBAAxoCgUTW1QJAV4MHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GUgMCDgAUGxJWTkRRQF5ZCD4FUhUIUgRDA14TWF5OFgsPblJSW1dZVBEMEgQQHBoNEhEVWQ9EDQ0VEgRdRhBVEAQTDBUEAwEBERoSV11FVhATGBVZQ3MzQxUSA0xGB1oXCF5YFQwUWgNGDhIYEFlLOxMERBcTVAAMXEJEDhBSFkhDXFdPaVVYXl1TU0BbX1YXQ1sVUkMdQwxWXg9AXRBrFAhVFA0UBwIDCxRN
+#EXTINF:-1 tvg-id="Fox Sport HD" tvg-name="Fox Sports FHD" tvg-logo="http://listaccess.me/Logo/FoxSports1.png" group-title="Canais: Esportes",Fox Sports FHD
+http://listaccess.me:8880/live/Caroline01/Caroline01/7171.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD [Alter 2]" tvg-logo="http://listaccess.me/Logo/FoxSports1.png" group-title="Canais: Esportes",Fox Sports HD [Alter 2]
+http://50.7.78.154/live/dan24191/24191/50188.m3u8?token=GhNeVkVeFQoRBQRVA1YBXABXA1pXCQADCFYEAQEHA1UCV1RSDw9SAFEUHBZBREoBAAxoCgUTW1QJAV4MHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GUgMCDgAUGxJWTkRRQF5ZCD4FUhUIUgRDA14TWF5OFgsPblJSW1dZVBEMEgQQHBoNEhEVWQ9EDQ0VEgRdRhBVEAQTDBUEAwEBERoSV11FVhATGBVZQ3MzQxUSA0xGB1oXCF5YFQwUWgNGDhIYEFlLOxMERBcTVAAMXEJEDhBSFkhDXFdPaVVYXl1TU0BbX1YXQ1sVUkMdQwxWXg9AXRBrFAhVFA0UBwIDCxRN
+#EXTINF:-1 tvg-id="Fox Sport HD" tvg-name="Fox Sports HD [Alter]" tvg-logo="http://listaccess.me/Logo/FoxSports1.png" group-title="Canais: Esportes",Fox Sports HD [Alter]
+http://listaccess.me:8880/live/Caroline01/Caroline01/7407.ts
+#EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-name="FOX Sportv 2 FHD" tvg-logo="http://listaccess.me/Logo/FoxSports2.png" group-title="Canais: Esportes",FOX Sportv 2 FHD
+http://listaccess.me:8880/live/Caroline01/Caroline01/7157.ts
+
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://listaccess.me/Logo/space1.png" group-title="Canais: Filmes e Series",Space
+http://listaccess.me:8880/live/Caroline01/Caroline01/2193.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="Space [Alter 2]" tvg-logo="http://listaccess.me/Logo/space1.png" group-title="Canais: Filmes e Series",Space [Alter 2]
+http://listaccess.me:8880/live/Caroline01/Caroline01/13717.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="Space [Alter]" tvg-logo="http://listaccess.me/Logo/space1.png" group-title="Canais: Filmes e Series",Space [Alter]
+http://listaccess.me:8880/live/Caroline01/Caroline01/7282.ts
+#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="http://listaccess.me/Logo/space1.png" group-title="Canais: Filmes e Series",Space HD
+http://listaccess.me:8880/live/Caroline01/Caroline01/2192.ts
+#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD [Alter 2]" tvg-logo="http://listaccess.me/Logo/space1.png" group-title="Canais: Filmes e Series",Space HD [Alter 2]
+http://listaccess.me:8880/live/Caroline01/Caroline01/13718.ts
+#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD [Alter]" tvg-logo="http://listaccess.me/Logo/space1.png" group-title="Canais: Filmes e Series",Space HD [Alter]
+http://listaccess.me:8880/live/Caroline01/Caroline01/7281.ts
+#EXTINF:-1 tvg-id="Sport TV 2 HD" tvg-name="Sport TV 2 HD" tvg-logo="http://50.7.78.170/live/dan24191/24191/1203.m3u8?token=GhNeVkVeFQoRV1MHAAILUAcDAFYHBlJWDQFWBgdQBgdWUwICAg5VUQQUHBZBREoBAAxoCgUTW1ALAFUYEBdHARNuX1MUDBUCAgEBAQsSFEYVCFoGQwtRTRtAD1AQWBZXUAcABBQaFVVLQlVGXFFUOwUEQQoCVENbV0UKWB5AWwo+VVNaV1hTEgkUABYeElEXEUMNDRRdDU0bUg9AQANAAUMLFAUFAwISHxRTW0deTBYYQw1BI2NDTRtVHkBXDEcNDl8UDRRbBEULFBwWW0NnFgQSQxEEUAwESxJcFgJAGEYMUE5oVVlZXlZVRF1dXktGW0MGQU0TDA5XWRJbQD1EDQUTDBUEDw4ACxRN"Canais: Esportes",Sport TV 2 HD
+http://50.7.78.154/live/dan24191/24191/38709.m3u8?token=GhNeVkVeFQoRBQMHBFRdUlhSVgVYU1lYXQkDVQcEVQBYVwFSBw4HBVIUHBZBREoBAAxoCgUTW1IBB1YNHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GWQUAFRoUUkhHU0JaU1xnAAQXXgAEE1sPTFwKGBANWjsFVFtWWFIVChEGEhgQWUsUQ1tZFg1dTUNbWRJGUxZRRlsTAQQOFBsSUFlFWkZCQUZbQ3UxQx1DBEFEA1pBC1sKQwsUWgVDDxIfFFlHbUJdFxUTUgIMVBNDAxJWFh5AWQUZblVYWFhSU0dfX1pBEgJGUEMbQQxeDwhNXxRrQgtQRlsTBw4OBhVN
+#EXTINF:-1 tvg-id="Sport TV 3 HD" tvg-name="Sport TV 3 HD" tvg-logo="http://listaccess.me/Logo/Sportv3.png" group-title="Canais: Esportes",Sport TV 3 HD
+http://192.240.105.58/live/dan24191/24191/38713.m3u8?token=GhNeVkVeFQoRUwBWBwcOVFgDVQBRCVQDXQdeB1AAVQFRUw8FA1QCA1IUHBZBREoBAAxoCgUTW1IBB1cHHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GUgMCAgAUGxJWTkRRQF5ZCD4FUhUIUgRDA14TWF5OFgsPblJSW1dZVBEMEgQQHBoNEhEVWQ9EDQ0VEgRdRhBVEAQTDBUDBwUSHxRTW0deTBYYQw1BI2NDTRtVHkBXDEcNDl8UDRRbBEULFBwWW0NnFgQSQxEEUAwESxJcFgJAGEYMUE5oVVlZXlZVRF1dXktGW0MGQU0TDA5XWRJbQD1EDQUTDBUCBQIAEUs=
+#EXTINF:-1 tvg-id="Sport TV HD" tvg-name="Sport TV HD" tvg-logo="http://listaccess.me/Logo/Sportv.png" group-title="Canais: Esportes",Sport TV HD
+http://listaccess.me:8880/live/Caroline01/Caroline01/2189.ts
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="http://listaccess.me/Logo/sportv1.png" group-title="Canais: Esportes",SporTV
+http://23.237.100.82/live/dan24191/24191/47528.m3u8?token=GhNeVkVeFQoRUFEMBAQLVgNQBQcCA1kHWFYHBQpVAlBTAAADBg4AVQIUHBZBREoBAAxoCgUTW1UOBVQMHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GUwEEAgYUGxJWTkRRQF5ZCD4FUhUIUgRDA14TWF5OFgsPblJSW1dZVBEMEgQQHBoNEhEVWQ9EDQ0VEgRdRhBVEAQTDBUCBAESHxRTW0deTBYYQw1BI2NDTRtVHkBXDEcNDl8UDRRbBEULFBwWW0NnFgQSQxEEUAwESxJcFgJAGEYMUE5oVVlZXlZVRF1dXktGW0MGQU0TDA5XWRJbQD1EDQUTDBUFBA8EEUs=
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV [Alter 2]" tvg-logo="http://listaccess.me/Logo/sportv1.png" group-title="Canais: Esportes",SporTV [Alter 2]
+http://listaccess.me:8880/live/Caroline01/Caroline01/13423.ts
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV [Alter]" tvg-logo="http://listaccess.me/Logo/sportv1.png" group-title="Canais: Esportes",SporTV [Alter]
+http://listaccess.me:8880/live/Caroline01/Caroline01/7280.ts
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="http://listaccess.me/Logo/sportv1.png" group-title="Canais: Esportes",SporTV 2
+http://listaccess.me:8880/live/Caroline01/Caroline01/2187.ts
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 [Alter]" tvg-logo="http://listaccess.me/Logo/sportv1.png" group-title="Canais: Esportes",SporTV 2 [Alter]
+http://listaccess.me:8880/live/Caroline01/Caroline01/7279.ts
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2 FHD" tvg-logo="http://listaccess.me/Logo/Sportv2.png" group-title="Canais: Esportes",Sportv 2 FHD
+http://listaccess.me:8880/live/Caroline01/Caroline01/7154.ts
+#EXTINF:-1 tvg-id="Sport TV 2 HD" tvg-name="SporTV 2 HD [Alter]" tvg-logo="http://listaccess.me/Logo/sportv1.png" group-title="Canais: Esportes",SporTV 2 HD [Alter]
+http://listaccess.me:8880/live/Caroline01/Caroline01/7278.ts
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="http://listaccess.me/Logo/sportv1.png" group-title="Canais: Esportes",SporTV 3
+http://listaccess.me:8880/live/Caroline01/Caroline01/2186.ts
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 [Alter]" tvg-logo="http://listaccess.me/Logo/sportv1.png" group-title="Canais: Esportes",SporTV 3 [Alter]
+http://listaccess.me:8880/live/Caroline01/Caroline01/7277.ts
+#EXTINF:-1 tvg-id="Sport TV 3 HD" tvg-name="Sportv 3 FHD" tvg-logo="http://listaccess.me/Logo/Sportv3.png" group-title="Canais: Esportes",Sportv 3 FHD
+http://listaccess.me:8880/live/Caroline01/Caroline01/7153.ts
+#EXTINF:-1 tvg-id="Sport TV 3 HD" tvg-name="SporTV 3 HD [Alter]" tvg-logo="http://listaccess.me/Logo/sportv1.png" group-title="Canais: Esportes",SporTV 3 HD [Alter]
+http://listaccess.me:8880/live/Caroline01/Caroline01/7276.ts
+#EXTINF:-1 tvg-id="Sport TV HD" tvg-name="Sportv FHD" tvg-logo="http://listaccess.me/Logo/Sportv.png" group-title="Canais: Esportes",Sportv FHD
+http://listaccess.me:8880/live/Caroline01/Caroline01/7178.ts
+#EXTINF:-1 tvg-id="SporTV HD [Alter]" tvg-name="SporTV HD [Alter 2]" tvg-logo="http://listaccess.me/Logo/sportv1.png" group-title="Canais: Esportes",SporTV HD [Alter 2]
+http://listaccess.me:8880/live/Caroline01/Caroline01/13422.ts
+#EXTINF:-1 tvg-id="Sport TV HD" tvg-name="SporTV HD [Alter]" tvg-logo="http://listaccess.me/Logo/sportv1.png" group-title="Canais: Esportes",SporTV HD [Alter]
+http://listaccess.me:8880/live/Caroline01/Caroline01/7275.ts
+
+
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN1" tvg-logo="",DAZN1
+http://192.240.105.58/live/dan24191/24191/60702.m3u8?token=GhNeVkVeFQoRBFUGUFIOVFZRAltWV1BSXwhXAQoEBlUAUAECV1cAAgUUHBZBREoBAAxoCgUTW1cJB1YGHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GUwkCAgUUGxJWTkRRQF5ZCD4FUhUIUgRDA14TWF5OFgsPblJSW1dZVBEMEgQQHBoNEhEVWQ9EDQ0VEgRdRhBVEAQTDBUHAgUBERoSV11FVhATGBVZQ3MzQxUSA0xGB1oXCF5YFQwUWgNGDhIYEFlLOxMERBcTVAAMXEJEDhBSFkhDXFdPaVVYXl1TU0BbX1YXQ1sVUkMdQwxWXg9AXRBrFAhVFA0UAwMGAxRN
+#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN2 [Alter]" tvg-logo="",DAZN2
+http://50.7.69.178/live/dan24191/24191/56437.m3u8?token=GhNeVkVeFQoRAQgNUAkJV1kDB1pQCAADAAYFB1cGDQBRAlcOAQQPUVUUHBZBREoBAAxoCgUTW1QPBFUDHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GUwIADgUUGxJWTkRRQF5ZCD4FUhUIUgRDA14TWF5OFgsPblJSW1dZVBEMEgQQHBoNEhEVWQ9EDQ0VEgRdRhBVEAQTDBUEAAcDERoSV11FVhATGBVZQ3MzQxUSA0xGB1oXCF5YFQwUWgNGDhIYEFlLOxMERBcTVAAMXEJEDhBSFkhDXFdPaVVYXl1TU0BbX1YXQ1sVUkMdQwxWXg9AXRBrFAhVFA0UAgYEBxRN
+#EXTINF:-1 tvg-id="COMBATE SD" tvg-name="COMBATE SD" "Canais: Esportes",COMBATE SD
+ http://50.7.78.170/live/dan24191/24191/38746.m3u8?token=GhNeVkVeFQoRUgQDBlQOVFIHBlNVAlFYDwReAVdQUVwAUAYGVFUFA1AUHBZBREoBAAxoCgUTW1IBB1ICHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GUwMHAAUUGxJWTkRRQF5ZCD4FUhUIUgRDA14TWF5OFgsPblJSW1dZVBEMEgQQHBoNEhEVWQ9EDQ0VEgRdRhBVEAQTDBUCBgESHxRTW0deTBYYQw1BI2NDTRtVHkBXDEcNDl8UDRRbBEULFBwWW0NnFgQSQxEEUAwESxJcFgJAGEYMUE5oVVlZXlZVRF1dXktGW0MGQU0TDA5XWRJbQD1EDQUTDBUEDw8FChRN
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="COMBATE HD [Alter]" tvg-logo="http://listaccess.me/Logo/OFF1.png" group-title="Canais: Esportes",COMBATE HD [Alter]
+http://192.240.105.58/live/dan24191/24191/1088.m3u8?token=GhNeVkVeFQoRVARVVAULUQNWVgVSBFMDWlUCV1NXA1BVUlUOAVADAgUUHBZBREoBAAxoCgUTW1AJCF4YEBdHARNuX1MUDBUCAgEBAQsSFEYVCFoGQwtRTRtAD1AQWBZTUgIAFRoUUkhHU0JaU1xnAAQXXgAEE1sPTFwKGBANWjsFVFtWWFIVChEGEhgQWUsUQ1tZFg1dTUNbWRJGUxZRRlsTBAQCBBUcEVVfQVxESh1DWxUhMxNNQ1xIElFcEV0LDxMMFVsFQggRGhJdQW9KARIVRQYAXAQTGwpEBBBOFgkASWlUWVhZVVBCWVtcQxpeQ1AVT0NcDg9QRAlGbRJdAEMLFAMOBwESTg==
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 2
+http://192.240.105.58/live/dan24191/24191/58703.m3u8?token=GhNeVkVeFQoRBFZVAwkLUVJWDgBSV1cFC1YDV1NUAVYHCFQPAA5SAAQUHBZBREoBAAxoCgUTW1QBB1YHHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GUwgPAA4UGxJWTkRRQF5ZCD4FUhUIUgRDA14TWF5OFgsPblJSW1dZVBEMEgQQHBoNEhEVWQ9EDQ0VEgRdRhBVEAQTDBUDBgQSHxRTW0deTBYYQw1BI2NDTRtVHkBXDEcNDl8UDRRbBEULFBwWW0NnFgQSQxEEUAwESxJcFgJAGEYMUE5oVVlZXlZVRF1dXktGW0MGQU0TDA5XWRJbQD1EDQUTDBUDBQIEEUs=
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 [Alter]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 2 [Alter]
+
+#EXTINF:-1 tvg-id="Premiere 2 [Alter]" tvg-name="Premiere 2 [Alter 2]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 2 [Alter 2]
+http://192.240.105.58/live/dan24191/24191/38786.m3u8?token=GhNeVkVeFQoRAgQNVglZUVcCAlACVFNTClZfV1EEVVMCBwQOVQRVA1UUHBZBREoBAAxoCgUTW1IBB14CHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GUwcPBQUUGxJWTkRRQF5ZCD4FUhUIUgRDA14TWF5OFgsPblJSW1dZVBEMEgQQHBoNEhEVWQ9EDQ0VEgRdRhBVEAQTDBUEAgASHxRTW0deTBYYQw1BI2NDTRtVHkBXDEcNDl8UDRRbBEULFBwWW0NnFgQSQxEEUAwESxJcFgJAGEYMUE5oVVlZXlZVRF1dXktGW0MGQU0TDA5XWRJbQD1EDQUTDBUCDgIBEUs=
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 FHD" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 2 FHD
+http://192.240.105.58/live/dan24191/24191/38786.m3u8?token=GhNeVkVeFQoRAgQNVglZUVcCAlACVFNTClZfV1EEVVMCBwQOVQRVA1UUHBZBREoBAAxoCgUTW1IBB14CHkBBFwRDaV5SFA0SAQcHBQcJGkhDFV4OBBNbURUSFl1WQA5GUwcPBQUUGxJWTkRRQF5ZCD4FUhUIUgRDA14TWF5OFgsPblJSW1dZVBEMEgQQHBoNEhEVWQ9EDQ0VEgRdRhBVEAQTDBUEAgASHxRTW0deTBYYQw1BI2NDTRtVHkBXDEcNDl8UDRRbBEULFBwWW0NnFgQSQxEEUAwESxJcFgJAGEYMUE5oVVlZXlZVRF1dXktGW0MGQU0TDA5XWRJbQD1EDQUTDBUCDgIBEUs=
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 HD" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 2 HD
+http://listaccess.me:8880/live/Caroline01/Caroline01/2221.ts
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 HD [Alter]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 2 HD [Alter]
+http://listaccess.me:8880/live/Caroline01/Caroline01/7312.ts
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD [Alter 2]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 2 HD [Alter 2]
+http://listaccess.me:8880/live/Caroline01/Caroline01/13725.ts
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 3
+http://listaccess.me:8880/live/Caroline01/Caroline01/2220.ts
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 [Alter]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 3 [Alter]
+http://listaccess.me:8880/live/Caroline01/Caroline01/7311.ts
+#EXTINF:-1 tvg-id="Premiere 3 [Alter]" tvg-name="Premiere 3 [Alter 2]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 3 [Alter 2]
+http://listaccess.me:8880/live/Caroline01/Caroline01/13634.ts
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 FHD" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 3 FHD
+http://listaccess.me:8880/live/Caroline01/Caroline01/7168.ts
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 HD" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 3 HD
+http://listaccess.me:8880/live/Caroline01/Caroline01/2219.ts
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 HD [Alter]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 3 HD [Alter]
+http://listaccess.me:8880/live/Caroline01/Caroline01/7310.ts
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 HD [Alter 2]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 3 HD [Alter 2]
+http://listaccess.me:8880/live/Caroline01/Caroline01/13726.ts
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 4
+http://listaccess.me:8880/live/Caroline01/Caroline01/2218.ts
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 [Alter]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 4 [Alter]
+http://listaccess.me:8880/live/Caroline01/Caroline01/7309.ts
+#EXTINF:-1 tvg-id="Premiere 4 [Alter]" tvg-name="Premiere 4 [Alter 2]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 4 [Alter 2]
+http://listaccess.me:8880/live/Caroline01/Caroline01/13635.ts
+#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4 FHD" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 4 FHD
+http://listaccess.me:8880/live/Caroline01/Caroline01/7167.ts
+#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4 HD" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 4 HD
+http://listaccess.me:8880/live/Caroline01/Caroline01/2217.ts
+#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4 HD [Alter]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 4 HD [Alter]
+http://listaccess.me:8880/live/Caroline01/Caroline01/7308.ts
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD [Alter 2]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 4 HD [Alter 2]
+http://listaccess.me:8880/live/Caroline01/Caroline01/13727.ts
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 5
+http://listaccess.me:8880/live/Caroline01/Caroline01/2216.ts
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 [Alter]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 5 [Alter]
+http://listaccess.me:8880/live/Caroline01/Caroline01/7307.ts
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 [Alter 2]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 5 [Alter 2]
+http://listaccess.me:8880/live/Caroline01/Caroline01/13636.ts
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 HD [Alter 2]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 5 HD [Alter 2]
+http://listaccess.me:8880/live/Caroline01/Caroline01/13728.ts
+#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5 FHD" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 5 FHD
+http://listaccess.me:8880/live/Caroline01/Caroline01/7166.ts
+#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5 HD" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 5 HD
+http://listaccess.me:8880/live/Caroline01/Caroline01/2215.ts
+#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5 HD [Alter]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 5 HD [Alter]
+http://listaccess.me:8880/live/Caroline01/Caroline01/7306.ts
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 6
+http://listaccess.me:8880/live/Caroline01/Caroline01/2214.ts
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 [Alter]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 6 [Alter]
+http://listaccess.me:8880/live/Caroline01/Caroline01/7305.ts
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 [Alter 2]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 6 [Alter 2]
+http://listaccess.me:8880/live/Caroline01/Caroline01/13637.ts
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 HD [Alter 2]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 6 HD [Alter 2]
+http://listaccess.me:8880/live/Caroline01/Caroline01/13729.ts
+#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="Premiere 6 FHD" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 6 FHD
+http://listaccess.me:8880/live/Caroline01/Caroline01/7165.ts
+#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="Premiere 6 HD" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 6 HD
+http://listaccess.me:8880/live/Caroline01/Caroline01/7094.ts
+#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="Premiere 6 HD [Alter]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 6 HD [Alter]
+http://listaccess.me:8880/live/Caroline01/Caroline01/7304.ts
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 7
+http://listaccess.me:8880/live/Caroline01/Caroline01/2213.ts
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 [Alter]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 7 [Alter]
+http://listaccess.me:8880/live/Caroline01/Caroline01/7303.ts
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 [Alter 2]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 7 [Alter 2]
+http://listaccess.me:8880/live/Caroline01/Caroline01/13638.ts
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 FHD" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 7 FHD
+http://listaccess.me:8880/live/Caroline01/Caroline01/7164.ts
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 HD" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 7 HD
+http://listaccess.me:8880/live/Caroline01/Caroline01/7095.ts
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 HD [Alter]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 7 HD [Alter]
+http://listaccess.me:8880/live/Caroline01/Caroline01/7302.ts
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 HD [Alter 2]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 7 HD [Alter 2]
+http://listaccess.me:8880/live/Caroline01/Caroline01/13730.ts
+#EXTINF:-1 tvg-id="Premiere 8" tvg-name="Premiere 8" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 8
+http://listaccess.me:8880/live/Caroline01/Caroline01/2212.ts
+#EXTINF:-1 tvg-id="Premiere 8" tvg-name="Premiere 8 [Alter 2]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 8 [Alter 2]
+http://listaccess.me:8880/live/Caroline01/Caroline01/13639.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 9" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere 9
+http://listaccess.me:8880/live/Caroline01/Caroline01/2211.ts
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere Clubes
+http://listaccess.me:8880/live/Caroline01/Caroline01/2224.ts
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes [Alter]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere Clubes [Alter]
+http://listaccess.me:8880/live/Caroline01/Caroline01/7301.ts
+#EXTINF:-1 tvg-id="Premiere Clubes [Alter]" tvg-name="Premiere Clubes [Alter 2]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere Clubes [Alter 2]
+http://listaccess.me:8880/live/Caroline01/Caroline01/13425.ts
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes FHD" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere Clubes FHD
+http://listaccess.me:8880/live/Caroline01/Caroline01/7170.ts
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere Clubes HD
+http://listaccess.me:8880/live/Caroline01/Caroline01/2223.ts
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD [Alter]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere Clubes HD [Alter]
+http://listaccess.me:8880/live/Caroline01/Caroline01/7300.ts
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD [Alter 2]" tvg-logo="http://listaccess.me/Logo/PFC1.png" group-title="Canais: Esportes",Premiere Clubes HD [Alter 2]
+http://listaccess.me:8880/live/Caroline01/Caroline01/13424.ts
